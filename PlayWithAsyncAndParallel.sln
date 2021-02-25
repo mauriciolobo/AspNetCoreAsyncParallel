@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickApi", "QuickApi\QuickApi.csproj", "{628D6580-5DFC-4161-BC26-46E0D5DB5DDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhereTheMagicHappens", "WhereTheMagicHappens\WhereTheMagicHappens.csproj", "{5FC2973A-00F2-4FF9-AAA4-D3A6CA6ADB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628D6580-5DFC-4161-BC26-46E0D5DB5DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628D6580-5DFC-4161-BC26-46E0D5DB5DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628D6580-5DFC-4161-BC26-46E0D5DB5DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628D6580-5DFC-4161-BC26-46E0D5DB5DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC2973A-00F2-4FF9-AAA4-D3A6CA6ADB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC2973A-00F2-4FF9-AAA4-D3A6CA6ADB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC2973A-00F2-4FF9-AAA4-D3A6CA6ADB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC2973A-00F2-4FF9-AAA4-D3A6CA6ADB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2665D007-A094-457A-8259-B9DA11F0C862}
+	EndGlobalSection
+EndGlobal
